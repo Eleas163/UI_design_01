@@ -1,0 +1,1 @@
+const catMenuItems = <String> ['C1', 'C2', 'C3'];
